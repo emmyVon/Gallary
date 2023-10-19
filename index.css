@@ -48,9 +48,11 @@ nav ul li{
     display: grid;
    place-items: center;
    padding: 2rem;
+margin-top: 4rem;
 }
 .aboutme{
     font-size: 20px;
+    
 }
 .hide{
     display: none;
@@ -125,7 +127,10 @@ footer{
     .container{
         width: 98%;
     }
-        .skills{
+     .skills{
             font-size: 0.9rem;
         }
+    .day{
+        display: none;
+    }
 }
